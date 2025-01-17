@@ -2,6 +2,7 @@
 
 This resource pack allows you to have custom skinned crown helmets on a vanilla minecraft server. It is based on some old texture packs and a recent tutorial for custom models in 1.21.4.
 
+* Original assets: https://www.youtube.com/watch?v=EWOUCeRgPf8
 * Tutorial video: https://www.youtube.com/watch?v=rmldGZ3_zUs
 
 Use the following command to give yourself the custom helmet:
